@@ -1,0 +1,256 @@
+$WAVE4TIMED
+$RESOLUTION 1000
+I 1 "e#9#std_logicc9 UX01ZWLH-"
+$IN 1 1 clock_placuta
+$IN 5 1 load_casa
+$IN 9 1 buton_distanta
+$IN +4 1 0 9 enter
+$IN +4 1 euro1
+$IN +4 1 euro2
+$IN +4 1 euro5
+$IN +4 1 euro10
+$IN +4 1 4 1 "2"
+$IN +4 1 4 1 "5"
+$IN +4 1 enter_bani
+$IN +4 1 reset
+$OUT +4 1 led_lipsa_bilete
+$OUT +4 1 led_suma_mica
+$OUT +4 1 led_lipsa_rest
+I 2 "a#28#std_logic_vector(3 downto 0)1 ricd3 0 e#9#std_logicc9 UX01ZWLH-"
+$BUS INOUT 77 2 4 anozi
+$SC 61-73/4
+I 3 "a#24#std_logic_vector(0 to 7)1 rict0 7 e#9#std_logicc9 UX01ZWLH-"
+$BUS OUT +37 3 8 catozi
+$SC 78-+28/4
+$S +5 1 rest1
+$S +4 1 rest2
+$S +4 1 rest5
+$S +4 1 rest10
+$S +4 1 4 1 "2"
+$S +4 1 4 1 "5"
+I 4 "a#28#std_logic_vector(7 downto 0)1 ricd7 0 e#9#std_logicc9 UX01ZWLH-"
+$BUS S +36 4 8 bani1
+$SC 135-+28/4
+$BUS S +37 4 8 bani2
+$SC 168-+28/4
+$BUS S +37 4 8 bani5
+$SC 201-+28/4
+$BUS S +37 4 8 bani10
+$SC 234-+28/4
+$BUS S +37 4 8 4 1 "2"
+$SC 267-+28/4
+$BUS S +37 4 8 4 1 "5"
+$SC 300-+28/4
+$BUS S +21 2 4 stare
+$SC 333-+12/4
+$S +5 1 clock_placuta_div
+$S +4 1 buton_distanta_deb
+$S +4 1 0 13 enter
+$S +4 1 6 4 bani
+$S +4 1 1 4 uro1
+$S +4 1 4 4 "2"
+$S +4 1 4 4 "5"
+$S +4 1 4 4 "10"
+$S +4 1 4 5 "2"
+$S +4 1 4 5 "5"
+$BUS S +36 4 8 distanta_pret
+$SC 390-+28/4
+$BUS S +37 4 8 suma_introdusa
+$SC 423-+28/4
+$BUS S +37 4 8 money
+$SC 456-+28/4
+$S +5 1 ee1
+$S +4 1 ee2
+$S +4 1 ee5
+$S +4 1 ee10
+$S +4 1 ee20
+$S +4 1 ee50
+$S +4 1 led_lipsa_bilete_out
+$S +4 1 4 4 suma_mica
+$S +4 1 4 4 lipsa_rest
+$IN 1 0 clock_placuta
+$IN 5 0 load_casa
+$IN 9 0 buton_distanta
+$IN +4 0 0 9 enter
+$IN +4 0 euro1
+$IN +4 0 euro2
+$IN +4 0 euro5
+$IN +4 0 euro10
+$IN +4 0 4 1 "2"
+$IN +4 0 4 1 "5"
+$IN +4 0 enter_bani
+$IN +4 0 reset
+$OUT +4 0 led_lipsa_bilete
+$OUT +4 0 led_suma_mica
+$OUT +4 0 led_lipsa_rest
+$BUS INOUT 525 2 4 anozi
+$SC 61-73/4
+$BUS OUT 526 3 8 catozi
+$SC 78-+28/4
+$S +5 0 rest1
+$S +4 0 rest2
+$S +4 0 rest5
+$S +4 0 rest10
+$S +4 0 4 1 "2"
+$S +4 0 4 1 "5"
+$BUS S 527 4 8 bani1
+$SC 135-+28/4
+$BUS S 528 4 8 bani2
+$SC 168-+28/4
+$BUS S 529 4 8 bani5
+$SC 201-+28/4
+$BUS S 530 4 8 bani10
+$SC 234-+28/4
+$BUS S 531 4 8 4 1 "2"
+$SC 267-+28/4
+$BUS S 532 4 8 4 1 "5"
+$SC 300-+28/4
+$BUS S 533 2 4 stare
+$SC 333-+12/4
+$S +5 0 clock_placuta_div
+$S +4 0 buton_distanta_deb
+$S +4 0 0 13 enter
+$S +4 0 6 4 bani
+$S +4 0 1 4 uro1
+$S +4 0 4 4 "2"
+$S +4 0 4 4 "5"
+$S +4 0 4 4 "10"
+$S +4 0 4 5 "2"
+$S +4 0 4 5 "5"
+$BUS S 534 4 8 distanta_pret
+$SC 390-+28/4
+$BUS S 535 4 8 suma_introdusa
+$SC 423-+28/4
+$BUS S +85 4 8 money
+$SC 456-+28/4
+$S +5 0 ee1
+$S +4 0 ee2
+$S +4 0 ee5
+$S +4 0 ee10
+$S +4 0 ee20
+$S +4 0 ee50
+$S +4 0 led_lipsa_bilete_out
+$S +4 0 4 4 suma_mica
+$S +4 0 4 4 lipsa_rest
+$ENDTIME 10000
+$WAVES 102
+=0 T 0
+=1 D 0 1
+=2 D 0 3
+$VALUES
+V 3
+U
+0
+1
+$END
+$WAVES 1-49/4 354-+32/4 489-+20/4
+*0
+$VALUES
+V 1
+U
+$END
+$WAVES 53 +4 73 333-+8/4 +9
+*0
+*1
+$VALUES
+V 2
+U
+0
+$END
+$WAVES 61-+8/4 +37 345
+*0
+*1
+$VALUES
+V 2
+U
+1
+$END
+$WAVES 78-98/4
+*0
+*1
+*2
+$VALUES
+V 3
+U
+1
+0
+$END
+$WAVES +13-+20/4 390-+28/4 +5-+28/4 +5-+28/4 +29-+8/4
+*0
+$VALUES
+V 1
+0
+$END
+$WAVES 135-+28/4 +5-+28/4 +5-+28/4 +5-+28/4 +5-+28/4 +5-+28/4
+*0
+=3 D 0 2
+$VALUES
+V 2
+U
+0
+$END
+$IN 1 0 clock_placuta
+$IN 5 0 load_casa
+$IN 9 0 buton_distanta
+$IN +4 0 0 9 enter
+$IN +4 0 euro1
+$IN +4 0 euro2
+$IN +4 0 euro5
+$IN +4 0 euro10
+$IN +4 0 4 1 "2"
+$IN +4 0 4 1 "5"
+$IN +4 0 enter_bani
+$IN +4 0 reset
+$OUT +4 0 led_lipsa_bilete
+$OUT +4 0 led_suma_mica
+$OUT +4 0 led_lipsa_rest
+$BUS INOUT 537 2 4 anozi
+$SC 61-73/4
+$BUS OUT 538 3 8 catozi
+$SC 78-+28/4
+$S +5 0 rest1
+$S +4 0 rest2
+$S +4 0 rest5
+$S +4 0 rest10
+$S +4 0 4 1 "2"
+$S +4 0 4 1 "5"
+$BUS S 539 4 8 bani1
+$SC 135-+28/4
+$BUS S 540 4 8 bani2
+$SC 168-+28/4
+$BUS S 541 4 8 bani5
+$SC 201-+28/4
+$BUS S 542 4 8 bani10
+$SC 234-+28/4
+$BUS S 543 4 8 4 1 "2"
+$SC 267-+28/4
+$BUS S 544 4 8 4 1 "5"
+$SC 300-+28/4
+$BUS S 545 2 4 stare
+$SC 333-+12/4
+$S +5 0 clock_placuta_div
+$S +4 0 buton_distanta_deb
+$S +4 0 0 13 enter
+$S +4 0 6 4 bani
+$S +4 0 1 4 uro1
+$S +4 0 4 4 "2"
+$S +4 0 4 4 "5"
+$S +4 0 4 4 "10"
+$S +4 0 4 5 "2"
+$S +4 0 4 5 "5"
+$BUS S 546 4 8 distanta_pret
+$SC 390-+28/4
+$BUS S 547 4 8 suma_introdusa
+$SC 423-+28/4
+$BUS S +97 4 8 money
+$SC 456-+28/4
+$S +5 0 ee1
+$S +4 0 ee2
+$S +4 0 ee5
+$S +4 0 ee10
+$S +4 0 ee20
+$S +4 0 ee50
+$S +4 0 led_lipsa_bilete_out
+$S +4 0 4 4 suma_mica
+$S +4 0 4 4 lipsa_rest
+$ENDWAVE

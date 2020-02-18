@@ -1,0 +1,10 @@
+.\src\automat_main.vhd
+.\src\numarator_reversibil8.vhd
+.\src\casa_de_bani.vhd
+.\src\divizor_de_frecventa.vhd
+.\src\debounce.vhd
+.\src\Afisare\afisare.vhd
+.\src\Afisare\numarator_modulo4.vhd
+.\src\Afisare\divizor_frecventa.vhd
+.\src\Afisare\decodificator_7segmente.vhd
+.\src\Afisare\mux4_1.vhd

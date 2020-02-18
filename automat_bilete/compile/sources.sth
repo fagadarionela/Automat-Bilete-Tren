@@ -1,0 +1,19 @@
+[Files List]
+C:\Program Files (x86)\Aldec\Active-HDL 6.3\VLIB\STD/src/standard.vhd=S
+C:\Program Files (x86)\Aldec\Active-HDL 6.3\VLIB\IEEE/src/stdlogic.vhd=S
+C:\Program Files (x86)\Aldec\Active-HDL 6.3\VLIB\IEEE/src/numstd.vhd=S
+C:\Program Files (x86)\Aldec\Active-HDL 6.3\VLIB\IEEE/src/arith.vhd=S
+C:\Program Files (x86)\Aldec\Active-HDL 6.3\VLIB\IEEE/src/unsigned.vhd=S
+C:\Users\Radu\Desktop\automat_bileteFinalulFinalului\automat_bilete\automat_bilete\AUTOMAT_BILETE/src/decodificator_7segmente.vhd=S
+C:\Users\Radu\Desktop\automat_bileteFinalulFinalului\automat_bilete\automat_bilete\AUTOMAT_BILETE/src/Afisare/decodificator_7segmente.vhd=S
+C:\Users\Radu\Desktop\automat_bileteFinalulFinalului\automat_bilete\automat_bilete\AUTOMAT_BILETE/src/mux4_1.vhd=S
+C:\Users\Radu\Desktop\automat_bileteFinalulFinalului\automat_bilete\automat_bilete\AUTOMAT_BILETE/src/Afisare/mux4_1.vhd=S
+C:\Users\Radu\Desktop\automat_bileteFinalulFinalului\automat_bilete\automat_bilete\AUTOMAT_BILETE/src/numarator_modulo4.vhd=S
+C:\Users\Radu\Desktop\automat_bileteFinalulFinalului\automat_bilete\automat_bilete\AUTOMAT_BILETE/src/Afisare/numarator_modulo4.vhd=S
+C:\Users\Radu\Desktop\automat_bileteFinalulFinalului\automat_bilete\automat_bilete\AUTOMAT_BILETE/src/Afisare/divizor_frecventa.vhd=S
+C:\Users\Radu\Desktop\automat_bileteFinalulFinalului\automat_bilete\automat_bilete\AUTOMAT_BILETE/src/numarator_reversibil8.vhd=S
+C:\Users\Radu\Desktop\automat_bileteFinalulFinalului\automat_bilete\automat_bilete\AUTOMAT_BILETE/src/proba.vhd=S
+C:\Users\Radu\Desktop\automat_bileteFinalulFinalului\automat_bilete\automat_bilete\AUTOMAT_BILETE/src/Afisare/afisare.vhd=S
+C:\Users\Radu\Desktop\automat_bileteFinalulFinalului\automat_bilete\automat_bilete\AUTOMAT_BILETE/src/casa_de_bani.vhd=S
+C:\Users\Radu\Desktop\automat_bileteFinalulFinalului\automat_bilete\automat_bilete\AUTOMAT_BILETE/src/debounce.vhd=S
+C:\Users\Radu\Desktop\automat_bileteFinalulFinalului\automat_bilete\automat_bilete\AUTOMAT_BILETE/src/automat_main.vhd=S

@@ -1,0 +1,63 @@
+[Project]
+Current Flow=Multivendor
+VCS=0
+version=1
+Current Config=compile
+
+[Configurations]
+compile=AUTOMAT_BILETE
+
+[Library]
+AUTOMAT_BILETE=.\AUTOMAT_BILETE.lib
+
+[$LibMap$]
+AUTOMAT_BILETE=.
+Active_lib=
+
+[Settings]
+FLOW_TYPE=HDL
+LANGUAGE=VHDL
+REFRESH_FLOW=1
+SYNTH_TOOL=<none>
+IMPL_TOOL=<none>
+FAMILY=
+FLOWTOOLS=ONLY_IMPL
+
+[IMPLEMENTATION]
+UCF=
+
+[Groups]
+Afisare=1
+
+[HierarchyViewer]
+SortInfo=u
+HierarchyInformation=automat_main|arh_automat_main|0  
+ShowHide=ShowTopLevel
+Selected=
+
+[Files]
+/automat_main.vhd=-1
+/numarator_reversibil8.vhd=-1
+/casa_de_bani.vhd=-1
+/divizor_de_frecventa.vhd=-1
+/debounce.vhd=-1
+/Waveform Editor 1.awf=-1
+Afisare/afisare.vhd=-1
+Afisare/numarator_modulo4.vhd=-1
+Afisare/divizor_frecventa.vhd=-1
+Afisare/decodificator_7segmente.vhd=-1
+Afisare/mux4_1.vhd=-1
+
+[Files.Data]
+.\src\automat_main.vhd=VHDL Source Code
+.\src\numarator_reversibil8.vhd=VHDL Source Code
+.\src\casa_de_bani.vhd=VHDL Source Code
+.\src\divizor_de_frecventa.vhd=VHDL Source Code
+.\src\debounce.vhd=VHDL Source Code
+.\src\Waveform Editor 1.awf=Waveform File
+.\src\Afisare\afisare.vhd=VHDL Source Code
+.\src\Afisare\numarator_modulo4.vhd=VHDL Source Code
+.\src\Afisare\divizor_frecventa.vhd=VHDL Source Code
+.\src\Afisare\decodificator_7segmente.vhd=VHDL Source Code
+.\src\Afisare\mux4_1.vhd=VHDL Source Code
+

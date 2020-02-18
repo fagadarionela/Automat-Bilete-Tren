@@ -1,0 +1,21 @@
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.0 [s].
+# Design Explorer: Shortcut to "C:\Users\Radu\Desktop\automat_bileteFinalulFinalului\automat_bilete\automat_bilete\AUTOMAT_BILETE.aws" design added.
+acom $DSN/src/automat_main.vhd $DSN/src/numarator_reversibil8.vhd $DSN/src/casa_de_bani.vhd $DSN/src/divizor_de_frecventa.vhd $DSN/src/debounce.vhd $DSN/src/afisare/afisare.vhd $DSN/src/afisare/numarator_modulo4.vhd $DSN/src/afisare/divizor_frecventa.vhd $DSN/src/afisare/decodificator_7segmente.vhd $DSN/src/afisare/mux4_1.vhd
+# Error: acom: C:\Users\Radu\Desktop\automat_bileteFinalulFinalului\automat_bilete\automat_bilete\AUTOMAT_BILETE/src/numarator_reversibil8.vhd: no such file
+# Error: acom: C:\Users\Radu\Desktop\automat_bileteFinalulFinalului\automat_bilete\automat_bilete\AUTOMAT_BILETE/src/casa_de_bani.vhd: no such file
+# Error: acom: C:\Users\Radu\Desktop\automat_bileteFinalulFinalului\automat_bilete\automat_bilete\AUTOMAT_BILETE/src/divizor_de_frecventa.vhd: no such file
+# Error: acom: C:\Users\Radu\Desktop\automat_bileteFinalulFinalului\automat_bilete\automat_bilete\AUTOMAT_BILETE/src/afisare/afisare.vhd: no such file
+# Error: acom: C:\Users\Radu\Desktop\automat_bileteFinalulFinalului\automat_bilete\automat_bilete\AUTOMAT_BILETE/src/afisare/numarator_modulo4.vhd: no such file
+# Error: acom: C:\Users\Radu\Desktop\automat_bileteFinalulFinalului\automat_bilete\automat_bilete\AUTOMAT_BILETE/src/afisare/divizor_frecventa.vhd: no such file
+# Error: acom: C:\Users\Radu\Desktop\automat_bileteFinalulFinalului\automat_bilete\automat_bilete\AUTOMAT_BILETE/src/afisare/decodificator_7segmente.vhd: no such file
+# Error: acom: C:\Users\Radu\Desktop\automat_bileteFinalulFinalului\automat_bilete\automat_bilete\AUTOMAT_BILETE/src/afisare/mux4_1.vhd: no such file
+# Compile...
+# File: C:\Users\Radu\Desktop\automat_bileteFinalulFinalului\automat_bilete\automat_bilete\automat_bilete\src\automat_main.vhd
+# Compile Entity "automat_main"
+# Compile Architecture "arh_automat_main" of Entity "automat_main"
+# File: C:\Users\Radu\Desktop\automat_bileteFinalulFinalului\automat_bilete\automat_bilete\automat_bilete\src\debounce.vhd
+# Compile Entity "debounce"
+# Compile Architecture "arh_debounce" of Entity "debounce"
+# Warning: ELAB1_0026: debounce.vhd : (52, 0): There is no default binding for component "bistabilD".(No entity named "bistabilD" was found).
+# Compile success 0 Errors 1 Warnings  Analysis time :  0.5 [s]

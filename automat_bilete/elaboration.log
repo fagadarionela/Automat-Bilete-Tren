@@ -1,0 +1,26 @@
+elbread.dll ver. 1.0.5.365 Fri May 19 06:54:33 2017
+
+
+--------------------------------------------------------------------------------
+Entity                       | Architecture                     | Library     
+--------------------------------------------------------------------------------
+automat_main                 | arh_automat_main                 | AUTOMAT_BILETE
+debounce                     | arh_debounce                     | automat_bilete
+casa_de_bani                 | arh_casa_de_bani                 | automat_bilete
+afisare                      | arh_afisare                      | automat_bilete
+numarator_reversibil8        | arh_numarator_reversibil8        | automat_bilete
+divizor_de_frecventa         | arh_divizor_frecventa            | automat_bilete
+numarator_modulo4            | arh_numarator_modulo4            | automat_bilete
+mux4_1                       | arh_mux4_1                       | automat_bilete
+decodificator_pe_7_segmente  | arh_decodificator_pe_7_segemente | automat_bilete
+--------------------------------------------------------------------------------
+
+-----------------------------
+Package             | Library
+-----------------------------
+standard            | std
+std_logic_1164      | ieee
+numeric_std         | ieee
+std_logic_arith     | ieee
+std_logic_unsigned  | ieee
+-----------------------------

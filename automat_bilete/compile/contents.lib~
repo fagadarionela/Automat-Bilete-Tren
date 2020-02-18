@@ -1,0 +1,22 @@
+2197
+~E 1 "./src/debounce.vhd" 5 debounce
+~A 1 "./src/debounce.vhd" 12 arh_debounce
+~E 1 "./src/automat_main.vhd" 6 automat_main
+~A 1 "./src/automat_main.vhd" 32 arh_automat_main
+~E 1 "./src/proba.vhd" 7 afisare
+~A 1 "./src/Afisare/afisare.vhd" 16 arh_afisare
+~E 1 "./src/casa_de_bani.vhd" 4 casa_de_bani
+~A 1 "./src/casa_de_bani.vhd" 15 arh_casa_de_bani
+~E 1 "./src/numarator_casa_bilete.vhd" 5 numarator_casa_bilete
+~E 1 "./src/Afisare/divizor_frecventa.vhd" 6 divizor_de_frecventa
+~A 1 "./src/Afisare/divizor_frecventa.vhd" 13 arh_divizor_frecventa
+~A 1 "./src/divizor_de_frecventa.vhd" 12 arh_divizor_de_frecventa
+~E 1 "./src/decodificator_7segmente.vhd" 5 decodificator_pe_7_segmente
+~A 1 "./src/Afisare/decodificator_7segmente.vhd" 13 arh_decodificator_pe_7_segemente
+~E 1 "./src/mux4_1.vhd" 4 mux4_1
+~A 1 "./src/Afisare/mux4_1.vhd" 15 arh_mux4_1
+~E 1 "./src/numarator_modulo4.vhd" 6 numarator_modulo4
+~A 1 "./src/Afisare/numarator_modulo4.vhd" 13 arh_numarator_modulo4
+~E 1 "./src/numarator_reversibil8.vhd" 5 numarator_reversibil8
+~A 1 "./src/numarator_reversibil8.vhd" 17 numarator_reversibil8
+~A 1 "./src/numarator_reversibil8.vhd" 16 arh_numarator_reversibil8

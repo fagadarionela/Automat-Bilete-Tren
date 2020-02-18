@@ -1,0 +1,28 @@
+MESSAGE "File: C:\Users\Radu\Desktop\automat_bileteFinalulFinalului\automat_bilete\automat_bilete\automat_bilete\src\automat_main.vhd" 
+BEGINPROGRESS C:\Users\Radu\Desktop\automat_bileteFinalulFinalului\automat_bilete\automat_bilete\automat_bilete\src\automat_main.vhd
+UPDATEPROGRESS 1
+MESSAGE "Compile Entity "automat_main"" 
+UPDATEPROGRESS 7
+UPDATEPROGRESS 8
+MESSAGE "Compile Architecture "arh_automat_main" of Entity "automat_main"" 
+UPDATEPROGRESS 11
+UPDATEPROGRESS 13
+UPDATEPROGRESS 16
+UPDATEPROGRESS 17
+UPDATEPROGRESS 18
+UPDATEPROGRESS 19
+UPDATEPROGRESS 21
+UPDATEPROGRESS 22
+UPDATEPROGRESS 23
+UPDATEPROGRESS 24
+UPDATEPROGRESS 93
+UPDATEPROGRESS 97
+UPDATEPROGRESS 98
+UPDATEPROGRESS 99
+UPDATEPROGRESS 100
+ENDPROGRESS C:\Users\Radu\Desktop\automat_bileteFinalulFinalului\automat_bilete\automat_bilete\automat_bilete\src\automat_main.vhd
+MESSAGE "File: C:\Users\Radu\Desktop\automat_bileteFinalulFinalului\automat_bilete\automat_bilete\automat_bilete\src\debounce.vhd" 
+MESSAGE "Compile Entity "debounce"" 
+MESSAGE "Compile Architecture "arh_debounce" of Entity "debounce"" 
+WARNING ELAB1_0026: "There is no default binding for component "bistabilD".(No entity named "bistabilD" was found)." "C:\Users\Radu\Desktop\automat_bileteFinalulFinalului\automat_bilete\automat_bilete\automat_bilete\src\debounce.vhd" 52 0
+SUCCESS "Compile success 0 Errors 1 Warnings  Analysis time :  0.5 [s]" 
